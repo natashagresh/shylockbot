@@ -1,0 +1,41 @@
+#log{
+  font-color:black;
+}
+
+#box{
+	background-color: rgba(255, 255, 255, 0.7);
+	width:405px;
+	height:300px;
+	margin-bottom: 40px;
+	font-color:black;
+
+}
+
+#prompt{
+    margin: 0 auto;
+    position: center;
+    width:400px;
+    font-size:15px;
+    background-color: rgba(255, 255, 255, 0.7);
+    font-color: black;
+}
+
+#return{
+    margin:0 auto;
+    font-size: 15px;
+    padding:5px;
+    font-weight: bold;
+}
+
+.command{	
+}
+
+.action{	
+}
+
+.quote{
+}
+
+body{
+	background-image: url('http://i.ytimg.com/vi/w1dqzlTTm0E/maxresdefault.jpg');
+}
